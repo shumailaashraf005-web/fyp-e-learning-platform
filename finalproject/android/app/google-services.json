@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013156171210",
+    "project_id": "shumaila-final-app",
+    "storage_bucket": "shumaila-final-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013156171210:android:74956ac1419370e7725333",
+        "android_client_info": {
+          "package_name": "com.shumaila.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013156171210-tg2tv45smsmitpr2cmc764tnku8c35to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASO_MEgKYPvFXAUUS8FpkigN2ZvNLkyrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013156171210-tg2tv45smsmitpr2cmc764tnku8c35to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
