@@ -34,7 +34,7 @@ A typical academic e-learning app allows students to select subjects, access les
    Firebase Authentication — Secure user registration and login
    JWT Authentication — Token-based authentication for custom backend APIs, if required
    Role-Based Access Control — Separate access for students, teachers, and administrators
-  
+
 ☁️ Backend & APIs
 
    RESTful API — Communication between the Flutter application and backend services
