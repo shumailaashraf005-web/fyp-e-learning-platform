@@ -5,7 +5,6 @@ An e-learning app for academic subjects is a digital learning platform designed 
 
 A typical academic e-learning app allows students to select subjects, access lessons, watch lectures, practice questions, complete assignments, and take online tests. Teachers can upload learning materials, communicate with students, assess their performance, and monitor progress. These functions are commonly provided through learning management systems (LMS).
 
-
 🚀 Features
 📚 Subject-wise courses and study materials
 🎥 Recorded and live video lectures
