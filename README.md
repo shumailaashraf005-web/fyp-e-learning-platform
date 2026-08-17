@@ -165,8 +165,31 @@ Enhanced dashboards & accessibility
 The FYP E-Learning Platform delivers a structured digital learning environment with a scalable, feature-based architecture.
 It lays the foundation for future enhancements such as AI-assisted learning, gamification, live classes, and advanced dashboards.
 
-📸 Screenshots
-(Add screenshots of your dashboard, course pages, and quiz module here)
+## 📸 Project Screenshots
+
+### 🔑 Login Screen
+![Login Screen](docs/screenshots/login-screen.jpeg)
+
+### 📊 Dashboard
+![Dashboard](docs/screenshots/dashboard-screen.jpeg)
+
+### 📚 Courses
+![Courses](docs/screenshots/courses-screen.jpeg)
+
+### ⚙️ Admin Dashboard
+![Admin Dashboard](docs/screenshots/admin-dashboard.jpeg)
+
+### 🔐 Admin Login
+![Admin Login](docs/screenshots/admin-login-screen.jpeg)
+
+### 🚀 Splash Screen
+![Splash Screen](docs/screenshots/EduLearn Splash Screen.jpeg)
+
+### 🌐 Online Learning Platform
+![Online Learning Platform](docs/screenshots/online-learning-platform.jpeg)
+
+
+
 
 📜 License
 This project is licensed under the MIT License – see the [Looks like the result wasn't safe to show. Let's switch things up and try something else!] file for details.
