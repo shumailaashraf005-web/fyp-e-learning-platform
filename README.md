@@ -188,8 +188,9 @@ It lays the foundation for future enhancements such as AI-assisted learning, gam
 ### 🌸 Admin Dashboard
 ![Admin Dashboard](finalproject/docs/screenshots/admin-dashboard.jpeg)
 
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 
 
-📜 License
-This project is licensed under the MIT License – see the [Looks like the result wasn't safe to show. Let's switch things up and try something else!] file for details.
+
