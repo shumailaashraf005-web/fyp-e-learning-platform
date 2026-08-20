@@ -167,26 +167,26 @@ It lays the foundation for future enhancements such as AI-assisted learning, gam
 
 ## 📸 Project Screenshots
 
-### 🔑 Login Screen
-![Login Screen](docs/screenshots/login-screen.jpeg)
-
-### 📊 Dashboard
-![Dashboard](docs/screenshots/dashboard-screen.jpeg)
-
-### 📚 Courses
-![Courses](docs/screenshots/courses-screen.jpeg)
-
-### ⚙️ Admin Dashboard
-![Admin Dashboard](docs/screenshots/admin-dashboard.jpeg)
-
-### 🔐 Admin Login
-![Admin Login](docs/screenshots/admin-login-screen.jpeg)
-
 ### 🚀 Splash Screen
-![Splash Screen](docs/screenshots/EduLearn Splash Screen.jpeg)
+![Splash Screen](finalproject/docs/screenshots/EduLearn-Splash-Screen.jpeg)
 
 ### 🌐 Online Learning Platform
-![Online Learning Platform](docs/screenshots/online-learning-platform.jpeg)
+![Online Learning Platform](finalproject/docs/screenshots/online-learning-platform.jpeg)
+
+### 🔑 Login Screen
+![Login Screen](finalproject/docs/screenshots/login-screen.jpeg)
+
+### 📊 Dashboard
+![Dashboard](finalproject/docs/screenshots/dashboard-screen.jpeg)
+
+### 📚 Courses
+![Courses](finalproject/docs/screenshots/courses-screen.jpeg)
+
+### 🔒 Admin Login
+![Admin Login](finalproject/docs/screenshots/admin-login-screen.jpeg)
+
+### 🌸 Admin Dashboard
+![Admin Dashboard](finalproject/docs/screenshots/admin-dashboard.jpeg)
 
 
 
